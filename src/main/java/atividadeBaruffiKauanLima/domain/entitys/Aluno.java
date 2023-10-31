@@ -1,4 +1,4 @@
-package atividadeBaruffi.domain.entitys;
+package atividadeBaruffiKauanLima.domain.entitys;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;

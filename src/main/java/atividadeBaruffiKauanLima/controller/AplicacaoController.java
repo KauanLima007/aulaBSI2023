@@ -1,7 +1,7 @@
-package atividadeBaruffi.controller;
+package atividadeBaruffiKauanLima.controller;
 
-import atividadeBaruffi.domain.repository.alunos;
-import atividadeBaruffi.domain.entitys.Aluno;
+import atividadeBaruffiKauanLima.domain.repository.alunos;
+import atividadeBaruffiKauanLima.domain.entitys.Aluno;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
@@ -17,7 +17,7 @@ public class AplicacaoController {
 
     private alunos alunosRepository;
     @Autowired
-    private atividadeBaruffi.service.alunoService alunoService;
+    private atividadeBaruffiKauanLima.service.alunoService alunoService;
     public AplicacaoController(alunos alunosRepository) {
         this.alunosRepository = alunosRepository;
     }

@@ -1,6 +1,6 @@
-package atividadeBaruffi.domain.repository;
+package atividadeBaruffiKauanLima.domain.repository;
 
-import atividadeBaruffi.domain.entitys.Aluno;
+import atividadeBaruffiKauanLima.domain.entitys.Aluno;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface alunos extends JpaRepository<Aluno, Integer> {

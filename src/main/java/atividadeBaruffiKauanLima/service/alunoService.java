@@ -1,6 +1,6 @@
-package atividadeBaruffi.service;
+package atividadeBaruffiKauanLima.service;
 
-import atividadeBaruffi.domain.entitys.Aluno;
+import atividadeBaruffiKauanLima.domain.entitys.Aluno;
 
 import java.util.*;
 

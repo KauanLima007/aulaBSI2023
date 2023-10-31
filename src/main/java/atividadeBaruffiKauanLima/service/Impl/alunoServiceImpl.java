@@ -1,9 +1,9 @@
-package atividadeBaruffi.service.Impl;
+package atividadeBaruffiKauanLima.service.Impl;
 
-import atividadeBaruffi.domain.entitys.Aluno;
+import atividadeBaruffiKauanLima.domain.entitys.Aluno;
 import lombok.RequiredArgsConstructor;
-import atividadeBaruffi.service.alunoService;
-import atividadeBaruffi.domain.repository.alunos;
+import atividadeBaruffiKauanLima.service.alunoService;
+import atividadeBaruffiKauanLima.domain.repository.alunos;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
